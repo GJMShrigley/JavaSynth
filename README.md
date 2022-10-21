@@ -13,3 +13,7 @@ To add your own sounds replace the audio files included in the 'sounds' folder w
 #CREDITS:
 
 Synth sample library courtesy of Kindobands (https://www.reddit.com/user/kindobands/)
+
+#LINKS:
+
+For an live example please visit my online portfolio (https://gjmshrigley.netlify.app/projects/jsynth/) 
