@@ -1,8 +1,8 @@
-#JAVASYNTH
+# JAVASYNTH
 
 A JavaScript-based soundboard. Controllable via physical keyboard or on-screen elements. Easy to customize and modify with alternate sound libraries.
 
-#HOW TO USE:
+# HOW TO USE:
 
 Simply download the zip and open the 'index.html' file in your browser of choice. All sound clips are included.
 
@@ -10,7 +10,7 @@ The soundboard can be triggered using either a physical keyboard or by clicking 
 
 To add your own sounds replace the audio files included in the 'sounds' folder with your own wav files (make sure the filenames match.)
 
-#HOW IT WORKS: 
+# HOW IT WORKS: 
 
 This project was designed for the purposes of developing an understanding and practical application of HTML dataset attributes and Javascript keyboard events.
 
@@ -26,10 +26,10 @@ The on-screen keyboard consists of elements with the same 'data-key' dataset att
 
 Both the 'handleKeyDown' and 'handleMouseDown' functions will also add a new 'playing' class in CSS that will change the styling of the relevant element. Another pair of event listeners monitor the key or mouse button being released and remove the 'playing' class upon being triggered.
 
-#CREDITS:
+# CREDITS:
 
 Synth sample library courtesy of Kindobands (https://www.reddit.com/user/kindobands/)
 
-#LINKS:
+# LINKS:
 
 For an live example please visit my online portfolio (https://gjmshrigley.netlify.app/projects/jsynth/) 
